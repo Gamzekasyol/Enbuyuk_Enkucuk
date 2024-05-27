@@ -1,0 +1,10 @@
+C:\Users\Gamze\source\repos\EnBüyük_EnKüçük\bin\Debug\EnBüyük_EnKüçük.exe.config
+C:\Users\Gamze\source\repos\EnBüyük_EnKüçük\bin\Debug\EnBüyük_EnKüçük.exe
+C:\Users\Gamze\source\repos\EnBüyük_EnKüçük\bin\Debug\EnBüyük_EnKüçük.pdb
+C:\Users\Gamze\source\repos\EnBüyük_EnKüçük\obj\Debug\EnBüyük_EnKüçük.csproj.AssemblyReference.cache
+C:\Users\Gamze\source\repos\EnBüyük_EnKüçük\obj\Debug\EnBüyük_EnKüçük.Form1.resources
+C:\Users\Gamze\source\repos\EnBüyük_EnKüçük\obj\Debug\EnBüyük_EnKüçük.Properties.Resources.resources
+C:\Users\Gamze\source\repos\EnBüyük_EnKüçük\obj\Debug\EnBüyük_EnKüçük.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\EnBüyük_EnKüçük\obj\Debug\EnBüyük_EnKüçük.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\EnBüyük_EnKüçük\obj\Debug\EnBüyük_EnKüçük.exe
+C:\Users\Gamze\source\repos\EnBüyük_EnKüçük\obj\Debug\EnBüyük_EnKüçük.pdb
